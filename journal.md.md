@@ -22,7 +22,8 @@ but it didn't really work out, because some lights were fading together instead 
 
 
 Because this wasn't working out I decided to rearrange/reformat the LEDS to look nicer
-<img width="1118" height="466" alt="image" src="https://github.com/user-attachments/assets/ed2695cd-a3a3-4b01-80cf-410b3c587b89" />
+<img width="656" height="384" alt="image" src="https://github.com/user-attachments/assets/9458d9b4-baec-44c6-a064-46bfecca94ac" />
+
 
 When I reformatted the design, it was easier for me to see the flow of energy through the circuit and because in the beginning from how I figured out how to create a delay in the fading, I was able to make the LEDS fade away one by one.
 
