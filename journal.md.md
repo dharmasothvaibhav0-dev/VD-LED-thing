@@ -18,11 +18,13 @@ I attempted to create a type of circle shape for the LED fading to make it look 
 
 
 but it didn't really work out, because some lights were fading together instead of after one another. and it was confusing to look at how the energy was moving through the circuit as it wasn't moving all in one direction.
-<img width="312" height="321" alt="image" src="https://github.com/user-attachments/assets/67853bac-2d0b-4106-9c72-b38f47981b24" />
+<img width="656" height="384" alt="image" src="https://github.com/user-attachments/assets/186952bc-0996-45a4-a27b-26e3d2d32260" />
+
 
 
 Because this wasn't working out I decided to rearrange/reformat the LEDS to look nicer
-<img width="656" height="384" alt="image" src="https://github.com/user-attachments/assets/9458d9b4-baec-44c6-a064-46bfecca94ac" />
+<img width="1118" height="466" alt="image" src="https://github.com/user-attachments/assets/97162acc-ef60-44da-9b62-03d3ddf1d218" />
+
 
 
 When I reformatted the design, it was easier for me to see the flow of energy through the circuit and because in the beginning from how I figured out how to create a delay in the fading, I was able to make the LEDS fade away one by one.
